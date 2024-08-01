@@ -1,5 +1,6 @@
 # MAGIC
 Multi-Aspect Controllable Text Generation with Disentangled Counterfactual Augmentation, ACL 2024 (main)
+
 This is the official repo for our paper `Multi-Aspect Controllable Text Generation with Disentangled Counterfactual Augmentation`
 
 ## Model Overview
