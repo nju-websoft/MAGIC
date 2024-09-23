@@ -12,7 +12,7 @@ framework and construct the attribute latent space. **Bottom left**: The vectors
 ## Dataset
 1. Download our training data from this [link](https://drive.google.com/drive/folders/17nIC_vuk9IyCHF_aDSvr0jcfYtQGMjxk?usp=drive_link). Unzip training data and put them under the `data` directory.
 
-2. Download the discriminator checkpoints ([Discriminator](https://drive.google.com/drive/folders/1VKyhdb5SfsIwiO5Rr-o0TcQ62lomfd79?usp=drive_link), used to evaluate multi-aspect control. Unzip them and put them under the `model` folder.
+2. Download the discriminator checkpoints ([Discriminator](https://drive.google.com/drive/folders/1fHd256kLtMMmYXQSQ6X6mLHellZIGbMR?usp=drive_link), used to evaluate multi-aspect control. Unzip them and put them under the `model` folder.
 
 ## Quick Start
 
